@@ -38,14 +38,14 @@
 					<input type="password" class="form-control" id="password" name="password" placeholder="Your password">
 				</div>
 				<div class="form-group">
-					<input type="submit" class="btn btn-default" value="Ingresar" style="background-color: red;width: 330px;color: white;font-weight: bold;">
+					<input type="submit" class="btn btn-default" value="Ingresar" style="background-color: red;width: 397px;color: white;font-weight: bold;">
 					<a href="https://www.w3schools.com" style="margin-left: 194px;color: red;">Olvide Mi Contraseña</a>
 				</div>
 				<div class="form-group">					
 					<a href="https://www.w3schools.com" style="margin-left: 78px;">Primera vez en REDRILSA</a>
 				</div>
 				<div class="form-group">					
-					<input type="button" value="Registrarse" class="button_active" onclick="location.href='http://localhost/Codeigniter-login-logout-register/register';" style="width: 331px;background-color: #848484;height: 31px;color: white;font-weight: bold;">
+					<input type="button" value="Registrarse" class="button_active" onclick="location.href='http://localhost/Codeigniter-login-logout-register/register';" style="width: 397px;background-color: #848484;height: 31px;color: white;font-weight: bold;">
 				</div>
 			</form>
 		</div>
